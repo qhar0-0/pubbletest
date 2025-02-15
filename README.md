@@ -3,4 +3,4 @@ THIS GAME CONTAINS MANY ERRORS DUE TO IT BEING CODED IN GAMEMAKER AND MAY GIVE A
 When exporting the gamemaker project as an html5 game it caused many errors in the code due to the massive difference between gamemaker code standards and HTML5 code standards. There is also immense lag so again I apologize
 
 This game was a game a friend and I made for a game jam a while ago. Many small animations had to be removed in order to even get this game to work on html5 so it may not look good but it works much better as an application (to be added on github here).
-(also the main menu music doesn't play for some reason and the only fix I could find was clicking on the screen BEFORE the game loads so if it takes a bit to load make sure to click on the screen to make sure the bgm for the menu plays)
+(also the main menu music doesn't play for some reason and the only fix I could find was clicking on the screen TWICE BEFORE the game loads so if it takes a bit to load make sure to double click on the screen to make sure the bgm for the menu plays)
